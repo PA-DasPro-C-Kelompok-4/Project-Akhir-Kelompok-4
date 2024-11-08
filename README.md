@@ -1,4 +1,9 @@
 # Project-Akhir-Kelompok-4
+
+Berikut kami menggunakan library sebagai berikut:
+
+<img width="296" alt="library kel 4" src="https://github.com/user-attachments/assets/53e91042-9890-4999-9ee6-961e9e8434a5">
+
 <img width="347" alt="login role" src="https://github.com/user-attachments/assets/d68227ff-4a0c-4d3c-bfbf-b6a0227d7186">
 
 Gambar tersebut menampilkan ada 4 opsi yaitu: Admin, User, Registrasi, Keluar.
@@ -70,3 +75,11 @@ Jika Anda salah memasukkan username atau password Anda, maka Anda tidak dapat me
 <img width="554" alt="jika sudah memilki saldo dan bisa meminjam buku" src="https://github.com/user-attachments/assets/303cfbb2-a514-46ba-8430-4d019d88aae0">
 
 Selanjutnya, user jika ingin meminjam buku maka harus memasukkan kode nomor buku dengan benar dan memasukkan username peminjam, dan juga memasukkan lama hari dari peminjam tersebut. Jika sudah memasukkan semuanya maka akan tercetak invoice sesuai dengan transaksi peminjam.
+
+<img width="205" alt="fitur admin" src="https://github.com/user-attachments/assets/d69e1b7c-2113-44d5-809a-7665b08cf0cd">
+
+Fitur admin
+
+<img width="125" alt="fitur user" src="https://github.com/user-attachments/assets/61f484bd-f100-40ba-a4f9-9d8032393c22">
+
+Fitur user
