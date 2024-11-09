@@ -25,7 +25,7 @@ Admin
 
 3. Update Buku
 
-4. Hapus Buku
+4. Hapus Buku
 
 5. Lihat Daftar Peminjam Buku
 
@@ -119,10 +119,4 @@ Jika Anda salah memasukkan username atau password Anda, maka Anda tidak dapat me
 
 Selanjutnya, user jika ingin meminjam buku maka harus memasukkan kode nomor buku dengan benar dan memasukkan username peminjam, dan juga memasukkan lama hari dari peminjam tersebut. Jika sudah memasukkan semuanya maka akan tercetak invoice sesuai dengan transaksi peminjam.
 
-<img width="205" alt="fitur admin" src="https://github.com/user-attachments/assets/d69e1b7c-2113-44d5-809a-7665b08cf0cd">
 
-Fitur admin
-
-<img width="125" alt="fitur user" src="https://github.com/user-attachments/assets/61f484bd-f100-40ba-a4f9-9d8032393c22">
-
-Fitur user
