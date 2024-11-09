@@ -1,0 +1,44 @@
+[
+    {
+        "Judul Buku": "Laskar Pelangi",
+        "Penerbit": "Bentang Pustaka",
+        "Tahun Rilis": 2005,
+        "Harga Sewa": 20000.0
+    },
+    {
+        "Judul Buku": "Bumi Manusia",
+        "Penerbit": "Hasta Mitra",
+        "Tahun Rilis": 1980,
+        "Harga Sewa": 30000.0
+    },
+    {
+        "Judul Buku": "Bumi 5 Menara",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Rilis": 2018,
+        "Harga Sewa": 10000.0
+    },
+    {
+        "Judul Buku": "Ayat Ayat Cinta",
+        "Penerbit": "Republika",
+        "Tahun Rilis": 2009,
+        "Harga Sewa": 30000.0
+    },
+    {
+        "Judul Buku": "Sapiens: A Brief History of Humankind",
+        "Penerbit": "Harper",
+        "Tahun Rilis": 2004,
+        "Harga Sewa": 25000.0
+    },
+    {
+        "Judul Buku": "Dongeng Sebelum Tidur",
+        "Penerbit": "Bhuana Ilmu Populer",
+        "Tahun Rilis": 2014,
+        "Harga Sewa": 33000.0
+    },
+    {
+        "Judul Buku": "Galaksi",
+        "Penerbit": "Coconut Books",
+        "Tahun Rilis": 2019,
+        "Harga Sewa": 50000.0
+    }
+]
