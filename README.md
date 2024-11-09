@@ -1,4 +1,7 @@
 # Project-Akhir-Kelompok-4
+Program ini adalah sebuah program penyewaan buku digital. Terdapat 2 role yaitu admin dan user. Role user dapat melihat daftar buku, melihat saldo dan pinjam buku. Untuk role admin sendiri dapat melakukan C.R.U.D. (Create, Read, Update dan Delete).
+Selain itu, ada juga menu registrasi yang sekiranya para user belum memiliki akun pada program kami, maka akan disarankan untuk registrasi terlebih dahulu, selanjutnya maka user dapat mengakses layanan kami.
+
 Library:
 
 Terdapat 6 library yang kami gunakan di program ini yaitu:
