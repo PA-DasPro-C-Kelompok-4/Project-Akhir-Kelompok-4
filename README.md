@@ -1,8 +1,49 @@
 # Project-Akhir-Kelompok-4
+Library:
 
-Berikut kami menggunakan library sebagai berikut:
+Terdapat 6 library yang kami gunakan di program ini yaitu:
 
-<img width="296" alt="library kel 4" src="https://github.com/user-attachments/assets/53e91042-9890-4999-9ee6-961e9e8434a5">
+1. Pretty Table untuk membuat tabel secara otomatis dan rapi,
+
+2. os disini kami gunakan untuk membersihkan tampilan di terminal,
+
+3. pwinput untuk membuat password tidak langsung terlihat,
+
+4. time disini kami gunakan untuk format penambahan jadwal, mengedit jadwal dan memunculkan tanggal pemesanan di bukti pembelian tiket,
+
+5. json untuk mengakses dan mengupdate json.
+
+6.  sys untuk mengakses dan mengelola fungsi
+
+Fitur
+
+Admin
+
+1. Tambah Buku
+
+2. Lihat Daftar Buku
+
+3. Update Buku
+
+4. Hapus Buku
+
+5. Lihat Daftar Peminjam Buku
+
+6. Top-up Saldo
+
+7. Logout
+
+User
+
+1. Lihat Daftar Buku
+
+2. Lihat Saldo
+
+3. Pinjam Buku
+
+4. Logout
+
+
 
 Berikut penjelasan program dari kelompok 4:
 
