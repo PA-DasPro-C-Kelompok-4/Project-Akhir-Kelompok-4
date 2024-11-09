@@ -123,7 +123,7 @@ Jika Anda salah memasukkan username atau password Anda, maka Anda tidak dapat me
 Selanjutnya, user jika ingin meminjam buku maka harus memasukkan kode nomor buku dengan benar dan memasukkan username peminjam, dan juga memasukkan lama hari dari peminjam tersebut. Jika sudah memasukkan semuanya maka akan tercetak invoice sesuai dengan transaksi peminjam.
 
 #### Kelompok 4
-#### Rizky Yunia Suronob(2409116089)
+#### Rizky Yunia Surono (2409116089)
 #### Muhammad Nur Alfian (2409116105)
 #### Keisya Siti Nafisa Andini (2409116115)
 
